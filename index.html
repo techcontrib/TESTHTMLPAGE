@@ -1,13 +1,28 @@
 <html>
 <head>
-<title>Page title</title>
+<title>TEST PAGE</title>
 </head>
 <body>
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-<b>This text is bold</b>
-<strong>This text is important!</strong>
-<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+<h1>This is web server test page</h1>
+<p>If you able to access this page means your web server is up</p>
+<b>TEST Successful</b>
+<strong>Awesome....</strong>
 </body>
 </html>
+
+<pre>
+<strong>Uptime:</strong>
+<?php system("uptime"); ?>
+<br />
+<strong>System Information:</strong>
+<?php system("uname -a"); ?>
+<br />
+<strong>Memory Usage (MB):</strong>
+<?php system("free -m"); ?>
+<br />
+<strong>Disk Usage:</strong>
+<?php system("df -h"); ?>
+<br />
+<strong>CPU Information:</strong>
+<?php system("cat /proc/cpuinfo | grep \"model name\\|processor\""); ?>
+</pre>
