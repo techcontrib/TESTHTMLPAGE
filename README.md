@@ -1,1 +1,1 @@
-# TESTHTMLPAGE
+# TEST PHP Index page
