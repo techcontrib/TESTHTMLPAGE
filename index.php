@@ -1,15 +1,3 @@
-<html>
-<head>
-<title>TEST PAGE</title>
-</head>
-<body>
-<h1>This is web server test page</h1>
-<p>If you able to access this page means your web server is up</p>
-<b>TEST Successful</b>
-<strong>Awesome....</strong>
-</body>
-</html>
-
 <pre>
 <strong>Uptime:</strong>
 <?php system("uptime"); ?>
@@ -27,7 +15,12 @@
 <?php system("cat /proc/cpuinfo | grep \"model name\\|processor\""); ?>
 </pre>
 
-<img src="my-tf-cloudformation-bucket.s3.us-east-2.amazonaws.com/My_Pic.JPG">
+<!DOCTYPE html>
+<html>
+<body>
+<img src="https://my-tf-cloudformation-bucket.s3.us-east-2.amazonaws.com/My_Pic.JPG">
 title="Me and My kid...">
     width="400"
     height="341"
+</body>
+</html>
