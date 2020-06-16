@@ -18,7 +18,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="https://my-tf-cloudformation-bucket.s3.us-east-2.amazonaws.com/My_Pic.JPG">
+<img src="https://d1dzv9o3p2u716.cloudfront.net/My_Pic.JPG">
 title="Me and My kid...">
     width="400"
     height="341"
