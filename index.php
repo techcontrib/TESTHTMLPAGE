@@ -18,7 +18,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="d1brmdg5k0p9ze.cloudfront.net/My_Pic.JPG">
+<img src="http://d1brmdg5k0p9ze.cloudfront.net/My_Pic.JPG">
 title="Me and My kid...">
     width="400"
     height="341"
